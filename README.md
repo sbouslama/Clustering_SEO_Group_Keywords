@@ -1,6 +1,6 @@
 # Case Study: Determination of Short Tail Keywords for Marketing
-data Set : AAAI 2013 Accepted Papers Data Set   
-downloable from: https://archive.ics.uci.edu/ml/datasets/AAAI+2013+Accepted+Papers  
+##data Set
+AAAI 2013 Accepted Papers Data Set downloable from: https://archive.ics.uci.edu/ml/datasets/AAAI+2013+Accepted+Papers  
 
 ## features
 Title: Free text; title of the paper   
